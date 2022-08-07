@@ -9,3 +9,7 @@ SVM：AUC=0.82，速度较慢
 DT：AUC=0.91，速度极快  
 GBDT：AUC=0.96，速度较快  
 XGBoost: AUC:0.99 速度较快  
+
+
+关于数据集：
+![image](https://user-images.githubusercontent.com/93023212/183279842-77d2e205-d0f8-49f7-8fb2-2eae51a5c100.png)
