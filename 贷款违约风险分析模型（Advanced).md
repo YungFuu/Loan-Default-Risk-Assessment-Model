@@ -186,19 +186,6 @@ df2['auc value'] = auc_list
 ```
 
 
-```python
-pool=['gender',
- 'housing',
- 'income',
- 'std_age',
- 'past_bad_credit',
- 'married',
- 'jo_0',
- 'edu_0',
- 'edu_1',
- 'edu_2']
-```
-
 #### 相关性分析
 
 
@@ -212,7 +199,7 @@ plt.show()
 
 
     
-![output_14_0](https://user-images.githubusercontent.com/93023212/183279492-3f881d2d-3925-4325-8310-b72845e1eb73.png)
+![image](https://user-images.githubusercontent.com/93023212/183279668-395b31f8-083b-4ac6-bc57-ff748b8dc579.png)
     
 
 
