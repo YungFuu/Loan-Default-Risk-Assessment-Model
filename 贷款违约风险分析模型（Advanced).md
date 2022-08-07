@@ -116,7 +116,7 @@ draw_curve(fpr,tpr,roc_auc,'2.1 Receiver operating characteristic example')
 
 
     
-![png](output_8_0.png)
+![output_8_0](https://user-images.githubusercontent.com/93023212/183279483-98648210-f88f-4857-be10-60a4bed973ff.png)
     
 
 
@@ -212,7 +212,7 @@ plt.show()
 
 
     
-![png](output_14_0.png)
+![output_14_0](https://user-images.githubusercontent.com/93023212/183279492-3f881d2d-3925-4325-8310-b72845e1eb73.png)
     
 
 
@@ -289,7 +289,7 @@ draw_curve(fpr,tpr,roc_auc,'2.2 Full Logistic Model')
 
 
     
-![png](output_16_1.png)
+![output_16_1](https://user-images.githubusercontent.com/93023212/183279501-524d70b6-a27b-4b63-89e9-4c855574146f.png)
     
 
 
@@ -385,7 +385,7 @@ draw_curve(fpr,tpr,roc_auc,'2.2 Full Logistic Model')
 
 
     
-![png](output_22_1.png)
+![output_22_1](https://user-images.githubusercontent.com/93023212/183279506-f10a1777-057d-4701-bb31-4272963de1af.png)
     
 
 
@@ -412,7 +412,7 @@ draw_curve(fpr,tpr,roc_auc,'2.4 Out-of-Sample Test')
 
 
     
-![png](output_24_0.png)
+![output_24_0](https://user-images.githubusercontent.com/93023212/183279510-4d76ffda-2817-49ce-8558-b9e52950be97.png)
     
 
 
@@ -462,7 +462,7 @@ draw_curve(fpr,tpr,roc_auc,'SVM')
 
 
     
-![png](output_27_0.png)
+![output_27_0](https://user-images.githubusercontent.com/93023212/183279513-430cacc5-266c-443d-803a-191dff31f4fb.png)
     
 
 
@@ -512,7 +512,7 @@ draw_curve(fpr,tpr,roc_auc,'Decision Tree')
 
 
     
-![png](output_30_0.png)
+![output_30_0](https://user-images.githubusercontent.com/93023212/183279516-1b675ead-6a97-4400-962d-76974ab27670.png)
     
 
 
@@ -538,7 +538,7 @@ graph
 
 
     
-![svg](output_32_0.svg)
+![image](https://user-images.githubusercontent.com/93023212/183279545-23e92aa2-0e3b-45c2-83cc-8c5982c606f9.png)
     
 
 
@@ -583,7 +583,7 @@ plt.show()
 
 
     
-![png](output_34_1.png)
+![output_34_1](https://user-images.githubusercontent.com/93023212/183279553-02d9119a-0dfe-4b36-9e97-3acca787fd60.png)
     
 
 
@@ -633,7 +633,7 @@ draw_curve(fpr,tpr,roc_auc,'GBDT')
 
 
     
-![png](output_37_0.png)
+![output_37_0](https://user-images.githubusercontent.com/93023212/183279555-d8a20890-b416-4b67-ae1b-2c0dea356d6a.png)
     
 
 
@@ -686,7 +686,7 @@ draw_curve(fpr,tpr,roc_auc,'XGboost')
 
 
     
-![png](output_40_0.png)
+![output_40_0](https://user-images.githubusercontent.com/93023212/183279557-591e23fa-548b-4268-b36b-01594aa4d635.png)
     
 
 
